@@ -1,0 +1,12 @@
+.box{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 35px;
+    background: aquamarine;
+  float: right;
+}
+p{
+    clear: right;
+}
